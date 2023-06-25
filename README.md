@@ -1,0 +1,8 @@
+# recommender_system
+regression_continuousには本研究において提案する手法のうち、ユーザーベース協調フィルタリングの部分がある。
+
+collaborative_preprocessingではMovie Lens100k datasetの前処理を行っている。
+
+これ以前に深層学習を用いて映画ポスターの画像から各ユーザーがその映画をレビューしたかどうかを予測するモデルを構築したが、その部分のコードは現在社外秘となっているため公開できない。
+
+対比する手法として、item_based_pearsonではアイテムベース協調フィルタリングを実装した。
